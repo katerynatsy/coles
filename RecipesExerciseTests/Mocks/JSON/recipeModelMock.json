@@ -1,0 +1,62 @@
+{
+  "dynamicTitle": "Curtis Stone's tomato and bread salad with BBQ eggplant and capsicum",
+  "dynamicDescription": "For a crowd-pleasing salad, try this tasty combination of fresh tomato, crunchy bread and BBQ veggies. It’s topped with fresh basil and oregano for a finishing touch.",
+  "dynamicThumbnail": "/content/dam/coles/inspire-create/thumbnails/Tomato-and-bread-salad-480x288.jpg",
+  "dynamicThumbnailAlt": "Tomato, bread and eggplant salad served in a large plate topped with basil leaves with vinaigrette on the side",
+  "recipeDetails": {
+    "amountLabel": "Serves",
+    "amountNumber": 8,
+    "prepLabel": "Prep",
+    "prepTime": "15m",
+    "prepNote": "+ cooling time",
+    "cookingLabel": "Cooking",
+    "cookingTime": "15m",
+    "cookTimeAsMinutes": 15,
+    "prepTimeAsMinutes": 15
+  },
+  "ingredients": [
+    {
+      "ingredient": "1 cup (250ml) extra virgin olive oil, divided"
+    },
+    {
+      "ingredient": "4 cups (240g) 2cm-pieces day-old Coles Bakery Stone Baked by Laurent Pane Di Casa"
+    },
+    {
+      "ingredient": "4 Lebanese eggplants, halved lengthways"
+    },
+    {
+      "ingredient": "1 red capsicum, quartered, seeded"
+    },
+    {
+      "ingredient": "1 yellow capsicum, quartered, seeded"
+    },
+    {
+      "ingredient": "1/2 cup (125ml) red wine vinegar"
+    },
+    {
+      "ingredient": "1 tbs red wine vinegar, extra"
+    },
+    {
+      "ingredient": "3 garlic cloves, crushed"
+    },
+    {
+      "ingredient": "4 medium vine-ripened tomatoes, cut into 3cm pieces"
+    },
+    {
+      "ingredient": "200g grape kumato tomatoes, halved"
+    },
+    {
+      "ingredient": "1 Lebanese cucumber, cut into 3cm pieces"
+    },
+    {
+      "ingredient": "1 long red chilli, seeded, finely chopped"
+    },
+    {
+      "ingredient": "2/3 cup basil leaves"
+    },
+    {
+      "ingredient": "2 tsp oregano sprigs"
+    }
+  ]
+}
+

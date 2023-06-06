@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9D218882-9833-479F-88BE-4FB26DD43467"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B083031-A7B9-4F04-B667-092942A881DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "213"
+            endingLineNumber = "213"
+            landmarkName = "createLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B083031-A7B9-4F04-B667-092942A881DB - 1db529a96946c83c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, __C.NSCollectionLayoutEnvironment) -&gt; Swift.Optional&lt;__C.NSCollectionLayoutSection&gt; in static RecipesExercise.HomeViewController.createLayout() -&gt; __C.UICollectionViewLayout"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "6B083031-A7B9-4F04-B667-092942A881DB - 1db529a96946c83c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, __C.NSCollectionLayoutEnvironment) -&gt; Swift.Optional&lt;__C.NSCollectionLayoutSection&gt; in static RecipesExercise.HomeViewController.createLayout() -&gt; __C.UICollectionViewLayout"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "411">
+               </Location>
+               <Location
+                  uuid = "6B083031-A7B9-4F04-B667-092942A881DB - 1db529a96946c4f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, __C.NSCollectionLayoutEnvironment) -&gt; Swift.Optional&lt;__C.NSCollectionLayoutSection&gt; in static RecipesExercise.HomeViewController.createLayout() -&gt; __C.UICollectionViewLayout"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "731BB8D2-372A-44C7-9442-0E945F2A4592"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/RecipesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "applySnapshot(groups:animatingDifferences:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A90B4382-BF45-47C0-9A49-FAB572E1065A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/RecipeDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "setupObservers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A90B4382-BF45-47C0-9A49-FAB572E1065A - e053970633928c89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (RecipesExercise.RecipeDetailsItem) -&gt; () in RecipesExercise.RecipesDetailsViewController.setupObservers() -&gt; ()"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "242">
+               </Location>
+               <Location
+                  uuid = "A90B4382-BF45-47C0-9A49-FAB572E1065A - 19a4d428e447e9ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (RecipesExercise.RecipeDetailsItem) -&gt; () in RecipesExercise.RecipesDetailsViewController.setupObservers() -&gt; ()"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AFF2547-7BA1-4176-A724-6745E7AAF317"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/RecipeDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "setupObservers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C68C0C33-8EC6-4CE9-A357-538137309C16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/RecipeDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "setupObservers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E85A960A-BDFB-4114-82B5-D3740DFAC17A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/RecipeDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10D21117-B2E5-405A-8944-23568F433C2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/RecipeManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getRecipeDetails(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "10D21117-B2E5-405A-8944-23568F433C2E - ba3705788f894d59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for RecipesExercise.RecipeManager.getRecipeDetails(for: Foundation.UUID) async -&gt; Swift.Optional&lt;RecipesExercise.RecipeDetailsItem&gt;"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "515">
+               </Location>
+               <Location
+                  uuid = "10D21117-B2E5-405A-8944-23568F433C2E - c192fe40f956ecd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RecipesExercise.RecipeManager.getRecipeDetails(for: Foundation.UUID) async -&gt; Swift.Optional&lt;RecipesExercise.RecipeDetailsItem&gt;"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "766">
+               </Location>
+               <Location
+                  uuid = "10D21117-B2E5-405A-8944-23568F433C2E - 452aaf9e53b90c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RecipesExercise.RecipeModel) -&gt; Swift.Bool in RecipesExercise.RecipeManager.getRecipeDetails(for: Foundation.UUID) async -&gt; Swift.Optional&lt;RecipesExercise.RecipeDetailsItem&gt;"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "102">
+               </Location>
+               <Location
+                  uuid = "10D21117-B2E5-405A-8944-23568F433C2E - 9ae7f3f6cbc58cef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for RecipesExercise.RecipeManager.getRecipeDetails(for: Swift.String) async -&gt; Swift.Optional&lt;RecipesExercise.RecipeDetailsItem&gt;"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "531">
+               </Location>
+               <Location
+                  uuid = "10D21117-B2E5-405A-8944-23568F433C2E - f0541c834d0c4ede"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RecipesExercise.RecipeManager.getRecipeDetails(for: Swift.String) async -&gt; Swift.Optional&lt;RecipesExercise.RecipeDetailsItem&gt;"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "813">
+               </Location>
+               <Location
+                  uuid = "10D21117-B2E5-405A-8944-23568F433C2E - a0565f8dd2596627"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RecipesExercise.RecipeModel) -&gt; Swift.Bool in RecipesExercise.RecipeManager.getRecipeDetails(for: Swift.String) async -&gt; Swift.Optional&lt;RecipesExercise.RecipeDetailsItem&gt;"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "95">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E34C35B8-E437-4C8B-921C-1F8203BB7642"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/RecipesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "setupObservers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E34C35B8-E437-4C8B-921C-1F8203BB7642 - cc09b3bd26f764ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecipesExercise.RecipesListViewController.setupObservers() -&gt; ()"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "E34C35B8-E437-4C8B-921C-1F8203BB7642 - c875a033e5b51c5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;RecipesExercise.RecipeListViewModel.CollectionGroup&gt;) -&gt; () in RecipesExercise.RecipesListViewController.setupObservers() -&gt; ()"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0566D42-AE12-4FEE-A6E5-FEB8EB9AAE42"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/RecipeManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getRecipesList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A0566D42-AE12-4FEE-A6E5-FEB8EB9AAE42 - b1772345a3847d76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for RecipesExercise.RecipeManager.getRecipesList() async -&gt; Swift.Array&lt;RecipesExercise.Recipe&gt;"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "357">
+               </Location>
+               <Location
+                  uuid = "A0566D42-AE12-4FEE-A6E5-FEB8EB9AAE42 - 4fbfbde4bc76328d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RecipesExercise.RecipeManager.getRecipesList() async -&gt; Swift.Array&lt;RecipesExercise.Recipe&gt;"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "A0566D42-AE12-4FEE-A6E5-FEB8EB9AAE42 - b28d653275370ab0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 (RecipesExercise.RecipeModel) -&gt; RecipesExercise.Recipe in RecipesExercise.RecipeManager.getRecipesList() async -&gt; Swift.Array&lt;RecipesExercise.Recipe&gt;"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6A788A2-4C4B-4C3D-A082-F27DB4389204"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/RecipeManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getRecipesList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B5CA9E5-BFB1-49EF-80AA-36D741514E23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/RecipeManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "RecipeManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5B5CA9E5-BFB1-49EF-80AA-36D741514E23 - f956fb48cbd07b58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecipesExercise.RecipeManager.deinit"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5B5CA9E5-BFB1-49EF-80AA-36D741514E23 - aa237b974f9e312e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecipesExercise.RecipeManager.__deallocating_deinit"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExercise/RecipeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42E1035F-84C2-4FE2-8323-C2DD938F0B86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExerciseTests/Mocks/JSONTestData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "loadJson(filename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D418601-910A-4343-B277-66F25C70031F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExerciseTests/Mocks/JSONTestData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "loadJson(filename:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D418601-910A-4343-B277-66F25C70031F - 4cd43197755cdac2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static RecipesExerciseTests.JSONTestData.loadJson(filename: Swift.String) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "RecipesExerciseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExerciseTests/Mocks/JSONTestData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "777">
+               </Location>
+               <Location
+                  uuid = "9D418601-910A-4343-B277-66F25C70031F - 4cd43197755cda67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static RecipesExerciseTests.JSONTestData.loadJson(filename: Swift.String) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "RecipesExerciseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExerciseTests/Mocks/JSONTestData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "2060">
+               </Location>
+               <Location
+                  uuid = "9D418601-910A-4343-B277-66F25C70031F - 4cd43197755cda67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static RecipesExerciseTests.JSONTestData.loadJson(filename: Swift.String) -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "RecipesExerciseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Documents/Udemy/Tests/RecipesExercise/RecipesExerciseTests/Mocks/JSONTestData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "1784">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C409F6F7-25F2-4E25-8BDC-AC10A9502778"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/Feature/Recipes Collection/RecipesCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "RecipesCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C409F6F7-25F2-4E25-8BDC-AC10A9502778 - 585d98b88ac9f321"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecipesExercise.RecipesCollectionViewCell.init(frame: __C.CGRect) -&gt; RecipesExercise.RecipesCollectionViewCell"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Downloads/recipeExercise%202/RecipesExercise/Feature/Recipes%20Collection/RecipesCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "642">
+               </Location>
+               <Location
+                  uuid = "C409F6F7-25F2-4E25-8BDC-AC10A9502778 - 50e5591e32cd196e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RecipesExercise.RecipesCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RecipesExercise.RecipesCollectionViewCell&gt;"
+                  moduleName = "RecipesExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kat/Downloads/recipeExercise%202/RecipesExercise/Feature/Recipes%20Collection/RecipesCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "431">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96B4D798-2B57-4495-BAFC-E9C799038846"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesExercise/Feature/Recipes Collection/RecipesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchRecipesData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
